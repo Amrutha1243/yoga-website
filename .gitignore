@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 node_modules
 .env
 .vercel
 
 .vercel
+=======
+# Ignore node_modules
+**/node_modules
+
+# Ignore env files
+**/.env
+
+# System files
+.DS_Store
+*.log
+>>>>>>> origin/main
