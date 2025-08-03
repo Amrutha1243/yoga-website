@@ -74,3 +74,6 @@ PranaVeda is a full-stack MERN (MongoDB, Express, React, Node.js) application de
 cd server
 npm install
 npm run dev   # or node index.js
+Frontend: https://frontend-9cjjtkxze-sunkara-amrutha-varshinis-projects.vercel.app
+
+Backend: https://yoga-website-1zrn.onrender.com
